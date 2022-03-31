@@ -1,0 +1,28 @@
+.content .info {
+  text-align: center;
+  padding: 5px;
+}
+table {
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+td,
+th {
+  padding: 8px;
+  text-align: center;
+}
+
+th {
+  background-color: azure;
+}
+td {
+  background-color: rgb(157, 235, 235);
+}
+
+.about {
+  padding: 20px;
+  margin: 20px;
+  text-align: justify;
+  background-color: rgb(239, 245, 243);
+}
